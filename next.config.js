@@ -12,7 +12,6 @@ const config = {
     typescript: {
         ignoreBuildErrors: true,
     },
-    basePath: "/donor-link"
 };
 
 export default config;
