@@ -24,7 +24,7 @@ export default function SolanaProvider({ children }: { children: ReactNode }) {
   const appIdentity = {
     name: "Donor Link",
     // icon: "https://yourdomain.com/logo.png", // Replace with your actual logo URL
-    url: "https://www.kecil.dev", // Replace with your actual website
+    url: "https://donor-link.kecil.dev", // Replace with your actual website
     description: "A decentralized fundraising platform on Solana"
   };
 
