@@ -39,7 +39,6 @@ const handler = NextAuth({
             "localhost:3000",
             "127.0.0.1:3000",
             "donor-link.kecil.dev",
-            "www.donor-link.kecil.dev",
             ...(vercelUrl ? [vercelUrl] : []),
           ];
 
